@@ -14,6 +14,8 @@ I'm so proud of how my game performed, that I even animated a ThreeJS scene on m
 <H3>Summary</H3>
 While I didn't need to put in the level of effort that I did for my submission, it was a matter of pride.
 I take great pride in the quality of my work and had to ensure that even if it's just a Game Jam submission, then I would still need to deliver a quality product that the players will enjoy!
+That's why I also included a browser version of my game.
+While it wasn't developed to be played in a browser and this wasn't even a requirement, I wanted to make sure as many people as possible could play my game.
 
 I included all the related links down below
 
