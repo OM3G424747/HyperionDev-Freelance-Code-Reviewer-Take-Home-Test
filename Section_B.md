@@ -16,6 +16,15 @@ While I didn't need to put in the level of effort that I did for my submission, 
 I take great pride in the quality of my work and had to ensure that even if it's just a Game Jam submission, then I would still need to deliver a quality product that the players will enjoy!
 That's why I also included a browser version of my game.
 While it wasn't developed to be played in a browser and this wasn't even a requirement, I wanted to make sure as many people as possible could play my game.
+Some of the details I focused on include:
+ - Particle Physics (particles from the player's jet engine will not only bounce off the cubes but will also cause particles to shoot out of the cube of the same colour making it look like they "chipped away" at the cube)
+ - Cube rotation and direction in relation to the player's jet thrust and cube size (If you turn around and blast your thrusters in the direction of a cube, it will push it away and alter the rotation. This is most clearly seen on smaller cubes, while larger cubes are harder to push back and require more thrust)
+ - Charged shot (This was 100% inspired by Megaman X, it just felt fun and helped the player ship feel more powerful)
+ - Air breaks (Player feedback was that similar to the classic, the ship was hard to steer, so I included breaks to help bring it to a halt when needed)
+ - Enemy AI ships (The original didn't have enemy ships, but because of the modern controls, the game became almost too easy and so I added enemy hunter ships to keep players on their toes. They will Ignore the player as long as they keep their distance, or don't fire in their direction)
+
+Overall, the base game was finished within a single weekend, but I spend the rest of the Game Jam listening to feedback and making improvements to create a game that players would love!
+I couldn't be more proud of the result and how to achieve similar results when I release my current project "Eat: A tale of consumption" on steam in the next year or so.
 
 I included all the related links down below
 
