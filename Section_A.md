@@ -3,7 +3,7 @@
 It seems there are several error that's preventing your code from running.
 I'm going to cover each of them and suggest areas of improvement, but it would be a good idea to always test your code before submitting it and make sure the most recent version is submitted.
 
-<H3>Indentation</H3>
+<H4><ul>Indentation</ul></H4>
 It seems your indentation is incorrect from lines 2 to 6, and then lines 8 and 10.
 When running python code it's always important to ensure identation is correct.
 The easiest way to do this, is by pressing "TAB" instead of pressing the spacebar multiple times.
@@ -26,7 +26,7 @@ def my_funct(some_string):
 One important note for your code is to please remember to give your return statement the same indentation as your for loop's declaration.
 A return statement will exit your function, so if it's placed inside your for loop, it will result in you function exiting as soon as it reaches your return statement, which could mean that it could exit after just one itteration.
 
-<H3>Missing Variables</H3>
+<H4><ul>Missing Variables</ul></H4>
 It seems like you might have forgotten to pass i to the sorted fuction on line 5.
 
 <H2>Efficiency</H2>
@@ -72,6 +72,7 @@ Adding comments and doc strings will help remind you of what you were trying to 
 
 <H2>Outcome</H2>
 While you will need to fix a few bugs and resubmit your code, I can see you've got the right idea and I know you'll be able to complete this assignment without any issues.
+The top issue to focus on would be correct indentation and then just ensuring all variables are passed correctly where needed.
 Please be sure to run your code before submitting it, just to ensure it performs as expected.
 You're doing well, keep it up, I'm really looking forward to seeing more from you!
 
