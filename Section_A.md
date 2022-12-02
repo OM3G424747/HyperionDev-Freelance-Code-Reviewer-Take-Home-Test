@@ -3,8 +3,7 @@
 It seems there are several error that's preventing your code from running.
 I'm going to cover each of them and suggest areas of improvement, but it would be a good idea to always test your code before submitting it and make sure the most recent version is submitted.
 
-### <u>Indentation</u>
-<u>Indentation</u>
+<H4><ins>Indentation</ins></H4>
 It seems your indentation is incorrect from lines 2 to 6, and then lines 8 and 10.
 When running python code it's always important to ensure identation is correct.
 The easiest way to do this, is by pressing "TAB" instead of pressing the spacebar multiple times.
