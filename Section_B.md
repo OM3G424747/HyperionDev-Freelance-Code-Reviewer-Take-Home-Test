@@ -18,6 +18,6 @@ I take great pride in the quality of my work and had to ensure that even if it's
 I included all the related links down below
 
 Super Space Rocks Links:
- - <a href="https://github.com/OM3G424747/HyperionDev-Freelance-Code-Reviewer-Take-Home-Test/blob/main/Section_A.md#efficiency">Git Hub Repo</a>
+ - <a href="https://github.com/OM3G424747/Super_Space_Rocks">Git Hub Repo</a>
  - <a href="https://itch.io/jam/gamedevtv-jam-2022/rate/1545328">Game Jam Ranking and Download/Play Link</a>
  - <a href="https://go-gizmo.net/">Personal Website</a>
