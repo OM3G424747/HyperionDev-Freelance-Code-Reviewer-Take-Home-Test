@@ -20,6 +20,6 @@ While it wasn't developed to be played in a browser and this wasn't even a requi
 I included all the related links down below
 
 Super Space Rocks Links:
- - <a href="https://github.com/OM3G424747/Super_Space_Rocks">Git Hub Repo</a>
- - <a href="https://itch.io/jam/gamedevtv-jam-2022/rate/1545328">Game Jam Ranking and Download/Play Link</a>
- - <a href="https://go-gizmo.net/">Personal Website</a>
+ - <a href="https://github.com/OM3G424747/Super_Space_Rocks" target="_blank">Git Hub Repo</a>
+ - <a href="https://itch.io/jam/gamedevtv-jam-2022/rate/1545328" target="_blank">Game Jam Ranking and Download/Play Link</a>
+ - <a href="https://go-gizmo.net/" target="_blank">Personal Website</a>
