@@ -1,5 +1,6 @@
-<H2>Correctness</H2>
+<H1>Compulsory Task 1 Review</H1>
 
+<H2>Correctness</H2>
 It seems there are several error that's preventing your code from running.
 I'm going to cover each of them and suggest areas of improvement, but it would be a good idea to always test your code before submitting it and make sure the most recent version is submitted.
 
@@ -26,8 +27,9 @@ def my_funct(some_string):
 One important note for your code is to please remember to give your return statement the same indentation as your for loop's declaration.
 A return statement will exit your function, so if it's placed inside your for loop, it will result in you function exiting as soon as it reaches your return statement, which could mean that it could exit after just one itteration.
 
-<H4><u>Missing Variables</u></H4>
+<H4><ins>Missing Variables</ins></H4>
 It seems like you might have forgotten to pass i to the sorted fuction on line 5.
+
 
 <H2>Efficiency</H2>
 While your current submission can't be run, after correcting all the erros, it seems like you'll have a very simple yet ellegant solution!
@@ -36,6 +38,7 @@ I can see what you were trying to accomplish, and you're on the right track here
 I like how you treat each string as a list of chars, by sorting it and using it as a key to create a new list for any other string that match it when sorted.
 This shows you have a clear understanding of how strings work and you know how to manipulate them to accomplish your tasks!
 Keep it up!
+
 
 <H2>Style</H2>
 When writing code in python, it's a good idea to use "<em>snake case</em>" to adhere to PEP8 standards when declaring variables and functions.
@@ -58,8 +61,8 @@ This would also mean including to linebreaks after your return statement on line
 While this won't affect if your code will run or not, it will help improve readability.
 When you start working on larger projects with other developer, readability is absolutly vital, I highly recommend you try to adhere to PEP8 as best as possible.
 
-<H2>Documentation</H2>
 
+<H2>Documentation</H2>
 While this is a smaller project, it would still be a good idea to include a comment or two to indicate what actions you expect from certain lines of code.
 Similarly when declaring functions, it would be a good idea to make use of doc strings.
 This will just help you get into the habbit of documenting your code for when you do work on larger projects or projects with other developers.
@@ -69,6 +72,7 @@ Similar to PEP8, this will also help make it easier for others to work and code 
 Even if you're working alone on a project, these could still help you out tremendously in the long run.
 You might know what your code is supposed to do now, but after working on the same project for a month or more, it could get difficult to remember what specific functions or blocks of code are supposed to do.
 Adding comments and doc strings will help remind you of what you were trying to accomplish when you wrote those blocks and similarly if you're working with someone, it could help them understand what your code is supposed to do.
+
 
 <H2>Outcome</H2>
 While you will need to fix a few bugs and resubmit your code, I can see you've got the right idea and I know you'll be able to complete this assignment without any issues.
