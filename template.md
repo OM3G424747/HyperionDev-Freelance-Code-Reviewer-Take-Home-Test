@@ -75,3 +75,41 @@ While you will need to fix a few bugs and resubmit your code, I can see you've g
 Please be sure to run your code before submitting it, just to ensure it performs as expected.
 You're doing well, keep it up, I'm really looking forward to seeing more from you!
 
+
+# Foobar
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
