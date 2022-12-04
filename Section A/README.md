@@ -1,3 +1,5 @@
+<H2>Section A - Option 1: Python Task</H2>
+
 <H1>Compulsory Task 1 Review</H1>
 
 <H2>Correctness</H2>
